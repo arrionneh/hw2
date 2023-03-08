@@ -1,0 +1,12 @@
+C:\Users\hickson_arrionne\source\repos\hw2\hw2\bin\Debug\hw2.exe.config
+C:\Users\hickson_arrionne\source\repos\hw2\hw2\bin\Debug\hw2.exe
+C:\Users\hickson_arrionne\source\repos\hw2\hw2\bin\Debug\hw2.pdb
+C:\Users\hickson_arrionne\source\repos\hw2\hw2\bin\Debug\hw2.xml
+C:\Users\hickson_arrionne\source\repos\hw2\hw2\obj\Debug\hw2.vbproj.AssemblyReference.cache
+C:\Users\hickson_arrionne\source\repos\hw2\hw2\obj\Debug\hw2.Form1.resources
+C:\Users\hickson_arrionne\source\repos\hw2\hw2\obj\Debug\hw2.Resources.resources
+C:\Users\hickson_arrionne\source\repos\hw2\hw2\obj\Debug\hw2.vbproj.GenerateResource.cache
+C:\Users\hickson_arrionne\source\repos\hw2\hw2\obj\Debug\hw2.vbproj.CoreCompileInputs.cache
+C:\Users\hickson_arrionne\source\repos\hw2\hw2\obj\Debug\hw2.exe
+C:\Users\hickson_arrionne\source\repos\hw2\hw2\obj\Debug\hw2.xml
+C:\Users\hickson_arrionne\source\repos\hw2\hw2\obj\Debug\hw2.pdb
